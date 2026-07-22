@@ -195,7 +195,7 @@ export default function Contact({ lang }: ContactProps) {
                         {lang === 'urdu' ? 'ای میل ایڈریس' : 'Email Address'}
                       </label>
                       <input
-                        type="type"
+                        type="email"
                         required
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
