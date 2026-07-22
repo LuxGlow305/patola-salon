@@ -1,0 +1,6 @@
+{
+  "name": "Patola Makeover Studio",
+  "description": "An elegant, interactive website for Patola Makeover Studio featuring online appointment booking, customized service package builder, stylist profiles, and client reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
